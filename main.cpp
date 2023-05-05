@@ -3,6 +3,8 @@
 using namespace std;
 
 int main() {
+
+    cout << "Hola Mundo Bienvenidos" << endl;
     int arr[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}; /* inicializar arreglo con 10 enteros*/
     int sum = 0; // Empiezo la suma en 0
 
